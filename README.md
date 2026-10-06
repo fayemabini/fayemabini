@@ -33,7 +33,9 @@ I create complete briefs, provide scripts and materials, review edits, give deta
 
 ## Featured Project
 
-Coming soon: a sample project showing how I structure a digital product launch, including milestones, issues, acceptance criteria, risk tracking, and weekly status updates.
+### [Digital Product Launch — PM Portfolio](https://github.com/fayemabini/digital-product-launch-sample)
+
+A sample end-to-end digital product launch demonstrating my approach to project planning, cross-functional coordination, risk management, launch QA, and reporting.
 
 ## Get in touch
 
