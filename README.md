@@ -31,11 +31,29 @@ I also run my own YouTube channel, where I manage content production and work di
 
 I create complete briefs, provide scripts and materials, review edits, give detailed feedback, and make sure the final output meets quality and storytelling standards.
 
-## Featured Project
+### Featured Project
 
-### [Digital Product Launch — PM Portfolio](https://github.com/fayemabini/digital-product-launch-sample)
+### Digital Product Launch — PM Portfolio
 
-A sample end-to-end digital product launch demonstrating my approach to project planning, cross-functional coordination, risk management, launch QA, and reporting.
+A fictional end-to-end project showing how I manage a digital product launch across content, video, web/LMS, marketing, QA, and operations.
+
+Includes:
+- Project charter
+- Roadmap and milestones
+- Risk log
+- Weekly status update
+- GitHub Issues
+- Kanban project board
+- Launch-readiness checklist
+- Post-launch retrospective
+
+[View the sample project](https://github.com/fayemabini/digital-product-launch-sample)
+
+## Project Board
+
+View the working Kanban board for this sample project:
+
+[Digital Product Launch — PM Portfolio](https://github.com/users/fayemabini/projects/2/views/1)
 
 ## Get in touch
 
