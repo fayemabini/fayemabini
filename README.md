@@ -31,9 +31,30 @@ I also run my own YouTube channel, where I manage content production and work di
 
 I create complete briefs, provide scripts and materials, review edits, give detailed feedback, and make sure the final output meets quality and storytelling standards.
 
-### Featured Project
+## Featured Projects
 
-### Digital Product Launch — PM Portfolio
+### [Customer Rewards Program | PM Case Study](https://github.com/fayemabini/customer-rewards-program-case-study/blob/main/README.md)
+
+A product and program management case study showing how I turned recurring discount requests into a structured points-based engagement program.
+
+The project covers:
+
+- User behavior and problem discovery
+- Business proposal and stakeholder approval
+- Program rules and reward mechanics
+- Technical and functional requirements
+- Cross-functional coordination
+- Risk management
+- QA and launch readiness
+- Post-launch measurement and optimization
+
+The program rewarded users for selected website and learning-platform activities, creating a more structured way to provide value while encouraging engagement.
+
+The project is managed using both a **Timeline/Roadmap** for program phases and a **Kanban board** for execution.
+
+---
+
+### [Digital Product Launch — PM Portfolio](https://github.com/fayemabini/digital-product-launch-sample)
 
 A fictional end-to-end project showing how I manage a digital product launch across content, video, web/LMS, marketing, QA, and operations.
 
@@ -47,13 +68,6 @@ Includes:
 - Launch-readiness checklist
 - Post-launch retrospective
 
-[View the sample project](https://github.com/fayemabini/digital-product-launch-sample)
-
-## Project Board
-
-View the working Kanban board for this sample project:
-
-[Digital Product Launch — PM Portfolio](https://github.com/users/fayemabini/projects/2/views/1)
 
 ## Get in touch
 
